@@ -1,5 +1,3 @@
-﻿### https://www.freelancer.com/hire/Powershell/
-### Recursively get explicit permissions for NTFS Volumes
 
 ### Author petkov.marin@gmail.com
 #Description: Checks which groups/users have explicit permissions to folders/subfolders/files
