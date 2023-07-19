@@ -1,4 +1,3 @@
-﻿### Author petkov.marin@gmail.com
 ### Description: Accept as paramter AD user name and returns its OU container 
 
 function Get-UserOU
