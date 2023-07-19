@@ -1,5 +1,4 @@
 
-### Author petkov.marin@gmail.com
 #Description: Checks which groups/users have explicit permissions to folders/subfolders/files
 #Accepts as parameter the folder or file path with option for recursive check 
 function Get-ExplicitPermissions{
